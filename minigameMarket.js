@@ -11,22 +11,22 @@ M.launch=function()
 		
 		M.goods={
 			'Farm':{
-				name:'Cereals',
-				symbol:'CRL',
-				company:'Old Mills',
-				desc:'<b>Old Mills</b> is a trusted staple of the grain industry. Finding their roots in humble pioneer farms centuries ago and honing their know-how ever since, the Old Mills organic crops have reached a standard of quality that even yours struggle to equal.',
+				name:'Nut Farms Inc',
+				symbol:'NUT',
+				company:'Nut Farms Inc',
+				desc:'<b>Nut Farms Inc</b> is a trusted staple of the nuts industry. Deez nuts gottem xD',
 			},
 			'Mine':{
-				name:'Chocolate',
-				symbol:'CHC',
-				company:'Cocoa Excavations',
-				desc:'<b>Cocoa Excavations</b> is an international chocolate mining venture whose extraction sites always seem, somehow, to pop up in war-torn countries. Their high-grade chocolate is renowned the world over and has even been marketed, to some success, as suitable gems for engagement rings.',
+				name:'Brown & Sticky Excavations',
+				symbol:'POO',
+				company:'Brown & Sticky Excavations',
+				desc:'yeah lol',
 			},
 			'Factory':{
-				name:'Butter',
-				symbol:'BTR',
-				company:'Bovine Industries',
-				desc:'<b>Bovine Industries</b> is a formerly-agricultural conglomerate that now deals in mechanized dairy mass production. Whistleblowers have drawn attention to the way the milk cows employed by this company are treated, describing it as "not quite cruel or anything, but definitely unusual".',
+				name:'Butter (minus the er)',
+				symbol:'BUT',
+				company:'Butter (minus the er)',
+				desc:'<image src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fminion-bottom-gifs&psig=AOvVaw0N087DgmDKRdYU-C9BN3dw&ust=1685561660657000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPDDqdLknf8CFQAAAAAdAAAAABAE" />',
 			},
 			'Bank':{
 				name:'Sugar',
@@ -38,7 +38,7 @@ M.launch=function()
 				name:'Nuts',
 				symbol:'NUT',
 				company:'Hazel Monastery',
-				desc:'Hidden between hills and fog somewhere, the secretive <b>Hazel Monastery</b> has, for centuries, maintained nut crops of the highest quality. The monastery nuts are carefully tended to, harvested and shelled by its monks, who are all required to take a vow of nut allergy as a lifelong test of piety.',
+				desc:'Deez nuts gottem',
 			},
 			'Wizard tower':{
 				name:'Salt',
