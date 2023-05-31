@@ -1249,7 +1249,7 @@ if (!App && !Game.local && window.location.href.indexOf('orteil.dashnet.org')!=-
 Game.Launch=function()
 {
 	//Game.LoadMod("/mod.js");
-	Game.LoadMod("/cookiemonster.js");
+	//Game.LoadMod("/cookiemonster.js");
 	Game.mobile=0;
 	Game.touchEvents=0;
 	//if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) Game.mobile=1;
